@@ -17,5 +17,4 @@ O XPinning é um aplicativo de gameficação de aulas de spinning para auxiliar 
 		- **Feature** Branch pra desenvolver Features
 
 
-## Scripts
-- [[Track Controller.md | Track Controller]]
+  
