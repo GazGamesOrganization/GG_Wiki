@@ -1,0 +1,1 @@
+Sem ajustes por enquanto

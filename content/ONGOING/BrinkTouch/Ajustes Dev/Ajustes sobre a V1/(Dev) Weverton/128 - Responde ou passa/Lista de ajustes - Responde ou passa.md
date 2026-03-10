@@ -1,0 +1,20 @@
+### Legenda
+Pequeno: 🟢
+Grande: 🟡
+Extra (pago): 🔴
+
+Prazos possíveis: 0,5 dia//1 dia//1,5 dia//2 dias//3+ dias
+- Se uma coisa é questão de minutos, organize pra me responder que X coisas juntas custam 0,5 dia, porque a entrega vai ser toda de uma vez mesmo, mas eu preciso saber o que esperar no fim de prazos maiores;
+- Devolva os ==comentários== com ==realce==;
+
+### Ajustes
+rever o conteúdo descrito no início
+na tela em que o jogador vai digitar seu nome, precisa ajustar a orientação escrita: DIGITE SEU NOME NO ESPAÇO ABAIXO:
+quando abre o teclado para digitar, trocar “SALVAR” por “OK”
+A pergunta sobre a fórmula da água não é conteúdo de geografia.
+Depois que escolhe um componente curricular, em qualquer um, na tela seguinte aparece BRASIL COLÔNIA - BRASIL MONARQUIA - BRASIL REPÚBLICA. Rever o conteúdo para cada componente curricular. E não precisa aparecer descrito onde fala que é para escolher um livro, pois em cada livro já tem o tema relacionado.
+E quando somente um jogador joga, não faz sentido ter na roleta o “PASSA A VEZ”. Trocar por valores e, quando o aluno erra a letra, deve perder os pontos correspondentes. Deveria aparecer a pontuação para que o aluno acompanhe a computação de pontos. O mesmo deve ocorrer quando dois jogadores jogam.
+No final de cada pergunta está aparecendo a letra “A”. Rever as questões.
+na questão de quem escreveu o livro Dom Quixote, tem uma letra A no final do nome do escritor. Rever. E a questão não é um conteúdo de Ciências.
+Se possível nos enviar as questões para analisarmos se são pertinentes ou não.
+As questões não condizem aos componentes curriculares. 
