@@ -8,4 +8,4 @@ Prazos possíveis: 0,5 dia//1 dia//1,5 dia//2 dias//3+ dias
 - Devolva os ==comentários== com ==realce==;
 
 ### Ajustes
-Não foi possível testar o aplicativo – ao clicar nas conchas, elas não mudam de posição. O aplicativo está com bug.
+- [ ] Não foi possível testar o aplicativo – ao clicar nas conchas, elas não mudam de posição. O aplicativo está com bug.

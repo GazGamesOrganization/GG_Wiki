@@ -8,6 +8,6 @@ Prazos possíveis: 0,5 dia//1 dia//1,5 dia//2 dias//3+ dias
 - Devolva os ==comentários== com ==realce==;
 
 ### Ajustes
-Na segunda tela, arrumar o enunciado: CLIQUE NO BOTÃO PARA SORTEAR UM NÚMERO. DEPOIS O ARRASTE ATÉ O QUADRO  E COLOQUE NA POSIÇÃO CUJA MULTIPLICAÇÃO RESULTE NELE.
-Se errar e perder todas as vidas, ao voltar já tem um bola sorteada sem precisar apertar no botão. E numa dessas voltas, já tinha o número 1 sorteado, foi posicionado no local correto e ao sortear o próximo número, saiu o número 1 de novo sem ter opção de onde colocar.
-Dá erro ao finalizar:
+- [ ] Na segunda tela, arrumar o enunciado: CLIQUE NO BOTÃO PARA SORTEAR UM NÚMERO. DEPOIS O ARRASTE ATÉ O QUADRO  E COLOQUE NA POSIÇÃO CUJA MULTIPLICAÇÃO RESULTE NELE.
+- [ ] Se errar e perder todas as vidas, ao voltar já tem um bola sorteada sem precisar apertar no botão. E numa dessas voltas, já tinha o número 1 sorteado, foi posicionado no local correto e ao sortear o próximo número, saiu o número 1 de novo sem ter opção de onde colocar.
+- [ ] Dá erro ao finalizar:

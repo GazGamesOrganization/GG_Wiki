@@ -8,6 +8,6 @@ Prazos possíveis: 0,5 dia//1 dia//1,5 dia//2 dias//3+ dias
 - Devolva os ==comentários== com ==realce==;
 
 ### Ajustes
-Arrumar o enunciado na segunda tela: OBSERVE AS IMAGENS E CLIQUE EM ✓ OU ✕ PARA APROVAR OU NÃO A CENA EM QUESTÃO COMO CONSUMO CONSCIENTE.
-No final dá erro
-Este aplicativo ficou muito curto e sem muita interatividade. 
+- [ ] Arrumar o enunciado na segunda tela: OBSERVE AS IMAGENS E CLIQUE EM ✓ OU ✕ PARA APROVAR OU NÃO A CENA EM QUESTÃO COMO CONSUMO CONSCIENTE.
+- [ ] No final dá erro
+- [ ] Este aplicativo ficou muito curto e sem muita interatividade. 
