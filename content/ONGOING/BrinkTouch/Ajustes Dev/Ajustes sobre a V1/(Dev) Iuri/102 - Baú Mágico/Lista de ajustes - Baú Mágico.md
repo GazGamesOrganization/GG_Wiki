@@ -3,7 +3,10 @@ Pequeno: 🟢
 Grande: 🟡
 Extra (pago): 🔴
 
+Devolva os ==comentários== com ==realce==
+
 - [ ] (PRAZO) [^2]Todos os textos ou palavras devem estar em caixa alta, pois é um aplicativo voltado para Educação Infantil.
+	- ==Modelo de comentário==
 - [ ] (PRAZO) [^3]No Menu, quando não houver tradução de libras para o aplicativo, a habilitação do recurso não deve estar disponível (aparecer em cor mais clara e sem opção de mudança do status do botão - on/off).
 - [ ] (PRAZO) Para fechar/retrair o menu, a setinha deveria apontar para cima.
 - [ ] (PRAZO) Se você não sai do jogo e só muda de dificuldade ou de quantidade de jogadores, a ordem dos brinquedos sempre é a mesma. Programar que seja aleatório a sequência dos brinquedos em cada partida.
@@ -19,9 +22,6 @@ Extra (pago): 🔴
 
 
 [^1]: Já foi pedido/corrigido no ajuste que pede a tabela final com respostas fixas.
-
 [^2]: A questão é que isso envolve os textos do gerenciador também, a barra de tutorial por exemplo. Então se você passar todo o seu app e ele estiver com todos os textos em caixa alta mesmo, tá correto, só avisa.
-
 [^3]: Gerenciador, novamente.
-
 [^4]: Me dá o prazo considerando que você tem o áudio.
