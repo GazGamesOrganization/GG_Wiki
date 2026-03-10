@@ -41,7 +41,3 @@ Então é isso. Qualquer dúvida me chame, aceito sugestões também sobre essa 
 Vou trabalhar com os prazos e datas num kanban, que talvez eu abra pra todos poderem editar, e conferir com cada um dentro da estimativa feita.
 
 Bom trabalho!
-
-### Listas de ajustes
-
-- [[ONGOING/BrinkTouch/Ajustes Dev/Ajustes sobre a V1/(Dev) Iuri/102 - Baú Mágico/Lista de ajustes - Baú Mágico.md| 102 - Baú Mágico]]  
