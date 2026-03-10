@@ -4,9 +4,9 @@ O objetivo dessa página é organizar os ajustes de todos os jogos para ganharmo
 ### O que eu, dev, devo fazer?
 Bom, você deve abrir a sua pasta e pegar lista por lista e me devolver **prazos** e colocar essas tags coloridas antes de cada item. O que cada uma significa?
 
-🟢: Ajuste **pequeno**, nós aqui consideramos que é um ajuste que já foi previsto, coisa típica de cliente pedir, e que estava inclusa no nosso acordo de que íamos ter ajustes até entregar pra Gaz e depois o cliente faria a rodada dele. Sem cobrança extra;
-🟡: Ajuste **grande**, segue a mesma ideia de estar dentro do valor que já foi combinado e pago pra grande maioria de vocês, senão todos. Ainda sem cobrança extra;
-🔴: Ajuste **extra**, aqui sim entra uma conversa mais difícil, você me explica o que é que vai ter que ser feito, me dá um prazo, assim como em todos os outros, e quanto ficaria para fazer esse ajuste porque ele simplesmente é muito grande ou complicado;
+- 🟢: Ajuste **pequeno**, nós aqui consideramos que é um ajuste que já foi previsto, coisa típica de cliente pedir, e que estava inclusa no nosso acordo de que íamos ter ajustes até entregar pra Gaz e depois o cliente faria a rodada dele. Sem cobrança extra;
+- 🟡: Ajuste **grande**, segue a mesma ideia de estar dentro do valor que já foi combinado e pago pra grande maioria de vocês, senão todos. Ainda sem cobrança extra;
+- 🔴: Ajuste **extra**, aqui sim entra uma conversa mais difícil, você me explica o que é que vai ter que ser feito, me dá um prazo, assim como em todos os outros, e quanto ficaria para fazer esse ajuste porque ele simplesmente é muito grande ou complicado;
 
 Vale reforçar que eu e o Marcos já fizemos a avaliação de todos os ajustes, estamos dando abertura de vocês contestarem e estimarem os ajustes para começar uma conversa, mas temos uma noção dos tamanhos de trabalho.
 
@@ -23,7 +23,7 @@ Se você sentir necessidade de explicar o ajuste de alguma forma, se tiver algum
 - 🟢 (0,5 dia) Ajuste 1
 	- ==Comentário do dev, com realce==;
 
-### Método de entrega
+### Método de entrega dos ajustes
 Continuamos trabalhando da mesma forma:
 
 - Tempo de desenvolvimento;
@@ -35,7 +35,9 @@ Continuamos trabalhando da mesma forma:
 - Quando tudo estiver certo, envio do package;
 	- Entrega na pasta do projeto;
 	- O dev que integra os packages pode ter problema com o projeto em algum momento também;
-
+### Método de retorno dos prazos e tags
+Me manda um .zip com 1 arquivo de texto para cada 1 jogo que está dentro da pasta com seu nome.
+Se tiver imagens para acompanhar algum comentário que fez, me manda uma pasta junto de nome "JOGOres" (ex: 102res) para eu poder associar, tudo junto no mesmo .zip.
 #### Conclusão
 Então é isso. Qualquer dúvida me chame, aceito sugestões também sobre essa página e a organização no geral. Preciso de um ritmo constante de entregas por semana, uns 5 ou 6 jogos, então, cada um no seu tempo, mas vamos seguir os prazos estimados à risca.
 Vou trabalhar com os prazos e datas num kanban, que talvez eu abra pra todos poderem editar, e conferir com cada um dentro da estimativa feita.
